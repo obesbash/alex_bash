@@ -2,7 +2,6 @@
 width: 50%;
 margin: auto;
 position: absolute;
-text-align: center;
 }
 
 body {
@@ -13,4 +12,10 @@ body {
   line-height: 1.5;
   padding-top: 32px;
   padding-bottom: 32px;
+}
+
+h1 {
+margin-left: 50%;
+margin-top: 50%;
+overflow: auto;
 }
